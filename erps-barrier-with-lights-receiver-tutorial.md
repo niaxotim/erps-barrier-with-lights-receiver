@@ -60,7 +60,7 @@ radio.onReceivedString(function (receivedString) {
 ```
 
 ### Step 6
-Drag a ``||Kitronik_STOPbit.Make Traffic Light state||`` block in to the if-statement, and set it to 'Go'.
+Drag a ``||Kitronik_STOPbit.Make Traffic Light state||`` block in to the if-statement, and set it to ``||Kitronik_STOPbit.Go||``.
 
 #### ~ tutorialhint
 ```blocks
@@ -91,7 +91,7 @@ radio.onReceivedString(function (receivedString) {
 ### Step 7
 Duplicate your ``||logic:" " = " "||`` block, but change the right-hand-side to say "down".  
   
-Drag a ``||Kitronik_STOPbit.Make Traffic Light state||`` block in to the if-statement, and set it to 'Stop'.
+Drag a ``||Kitronik_STOPbit.Make Traffic Light state||`` block in to the if-statement, and set it to ``||Kitronik_STOPbit.Stop||``.
 
 
 #### ~ tutorialhint

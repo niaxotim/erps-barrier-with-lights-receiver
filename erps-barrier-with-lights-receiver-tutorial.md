@@ -31,7 +31,7 @@ Add a ``||Kitronik_STOPbit.Make Traffic Light state||`` block after ``||radio:se
 
 #### ~ tutorialhint
 ```blocks
-radio.setGroup(155)
+radio.setGroup(255)
 Kitronik_STOPbit.trafficLightState(Kitronik_STOPbit.LightStates.Stop)
 ```
 
